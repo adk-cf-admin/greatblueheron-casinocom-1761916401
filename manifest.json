@@ -1,0 +1,19 @@
+{
+  "name": "Great Blue Heron",
+  "short_name": "Great Blue Heron",
+  "theme_color": "",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761904024-greatcanadiancom-1-cr1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

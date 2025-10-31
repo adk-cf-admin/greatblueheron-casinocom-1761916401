@@ -1,0 +1,200 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#120D3A",
+            "welcome-bonus-bg": "#fafafa",
+            "top-games-hover-fg": "#120D3A",
+            "main-bg": "#ffffff",
+            "text": "#120D3A",
+            "text-black": "#ffffff",
+            "table-head": "#120D3A",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#1728AA",
+            "yellow": "#f3c758",
+            "yellow-button": "#1728AA",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#fafafa",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#372f75",
+            "faq-label": "#f2f2f2",
+            "bg-footer": "#120D3A",
+            "copyright": "#e7e7d5",
+            "starColor": "#f3c758",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/11",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Great Blue Heron",
+            "title": "Great Blue Heron Casino \u2014 Gaming, Betting, Dining, and Leisure",
+            "description": "Discover the world of entertainment at Great Blue Heron Casino: slots, poker, sports betting, restaurants, bars, hotel, and nightlife. Learn about bonuses, shows, and top events!\n",
+            "canonical": "greatblueheron-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/298",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/293",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/292"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/291",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Great Blue Heron Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Entertainment, Games, and Relaxation at Great Blue Heron ",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/300",
+            "imageSizeModifier": 20,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/301",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Convenient location near scenic Lake Scugog",
+                "Wide selection of slots and table games",
+                "Loyalty program with attractive bonuses",
+                "Friendly staff and excellent customer service",
+                "Variety of restaurants and bars onsite",
+                "Frequent promotions and entertainment events"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Great Blue Heron Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/294",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Great Blue Heron Casino App",
+            "mobileGooglePlayImageTitle": "Great Blue Heron Casino App",
+            "mobileIosImageTitle": "Great Blue Heron Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Great Blue Heron Casino",
+                "description1": "",
+                "items": [
+                    "Bonus up to $750 + 200 free spins",
+                    "Cashback up to $100 every weekend",
+                    "Jackpot up to $50,000 on poker"
+                ],
+                "description2": "Great Blue Heron Casino is a modern gaming destination set in a scenic location near the lake. The casino offers a wide range of slot machines and table games, creating an exciting and comfortable atmosphere. Guests can enjoy excellent service, cozy restaurants, and entertainment events. A loyalty program adds extra value, while regular promotions attract those seeking big wins. It\u2019s a place where excitement, relaxation, and hospitality come together for an unforgettable experience.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/295",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "\n\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Great Blue Heron  \u2014 Where Excitement Meets Comfort",
+                "description": "<p> Great Blue Heron Casino is a modern entertainment destination set in the scenic beauty of Scugog Island near Port Perry. Guests are welcomed by a vibrant gaming floor featuring hundreds of slot machines, table games, and a dedicated poker room, along with an on-site sportsbook for sports betting enthusiasts. The experience is complemented by cozy bars and the Water\u2019s Edge restaurant, offering local cuisine and a casual Quick Bites area for snacks.<\/p>\n<br>\n<p> For those planning an extended stay, the adjacent hotel provides over a hundred stylish rooms with all the comforts needed for relaxation. A newly opened live entertainment venue adds another dimension to the property, hosting concerts, corporate events, and special shows, making it a hub for both gaming and cultural experiences.<\/p>\n<br>\n<p> The casino also shines with its loyalty and bonus programs. Members of the Rapid Rewards Players Club enjoy cashback, free play credits, dining discounts, and invitations to exclusive events. Regular promotions and personalized offers enhance the thrill of gaming, while exceptional service and hospitality ensure every visit is memorable.<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nVisitor Rules\n<\/h3>\n\n<p> Visiting Great Blue Heron Casino requires following certain guidelines to ensure a safe and enjoyable experience for everyone. The casino operates 24\/7, but entry is restricted to adults only. Guests are expected to maintain proper behavior and appearance throughout their visit.<\/p>\n<br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Main Rules\n\n<\/h4>\n        <ul>\n            <li>\u2022 Minimum age for entry is 19 years.\n.<\/li>\n            <li>\u2022 Aggressive or inappropriate behavior is not allowed.\n<\/li>\n            <li>\u2022 Weapons, drugs, and outside alcohol are prohibited.\n<\/li>\n <li>\u2022 Photography and video recording are limited in gaming areas.\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Entry Conditions<\/h4>\n        <ul>\n            <li>\u2022 Valid ID may be required upon entry.\n<\/li>\n            <li>\u2022 Players must follow responsible gaming practices.\n<\/li>\n            <li>\u2022 Registration in the loyalty club is needed for bonus programs.\n\n<\/li>\n        <\/ul>\n        <br>\n\n  \n    <\/div>\n<\/div>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code\n\n<\/h4>\n        <ul>\n            <li>\u2022 Casual attire is acceptable, but neat clothing is required.\n<\/li>\n            <li>\u2022 Clothing with offensive graphics or language is prohibited.\n<\/li>\n            <li>\u2022 Swimwear, sportswear, and loungewear are not suitable.\n\n<\/li>\n        <\/ul>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Rapid Rewards Players Club at Great Blue Heron Casino\n<\/h3>\n\n<p>The Rapid Rewards Players Club loyalty program is designed to reward regular guests and enhance their gaming experience. Membership is free and easy to set up, and the club card unlocks a wide range of benefits. Players earn points for every wager on slots and electronic table games, which can be redeemed for free play, dining discounts, and other perks. The more you play, the more opportunities you gain, including exclusive promotions and invitations to private events. The program also features tier levels that offer expanded bonuses and personalized rewards.<\/p>\n<br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n       <h4 style = \"font-weight: bold; font-size: 24px;\">Program Benefits<\/h4>\n        <ul>\n            <li>\u2022 Free registration and instant card activation.\n<\/li>\n            <li>\u2022 Points earned for every slot and electronic game wager.\n<\/li>\n            <li>\u2022 Redeem points for Slot Play and discounts.\n<\/li>\n            <li>\u2022 Additional Comp Dollars for restaurants and retail.\n<\/li>\n\t    <li>\u2022 Access to exclusive promotions and VIP events.\n\n<\/li>\n        <\/ul><br>\n\n       <h4 style = \"font-weight: bold; font-size: 24px;\">Participation Requirements<\/h4>\n        <ul>\n            <li>\u2022 Minimum age of 19 years.\n<\/li>\n            <li>\u2022 Registration with valid ID.\n<\/li>\n            <li>\u2022 Active card use to accumulate points.\n\n<\/li>\n          \n        <\/ul><br>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n       <h4 style = \"font-weight: bold; font-size: 24px;\">Tier Levels<\/h4>\n        <ul>\n            <li>\u2022 Basic \u2014 entry-level with standard benefits.\n<\/li>\n            <li>\u2022 Silver \u2014 increased points and discounts.\n<\/li>\n            <li>\u2022 Gold \u2014 VIP event access and special offers.\n<\/li>\n            <li>\u2022 Platinum \u2014 top-tier privileges and exclusive promotions.\n\n<\/li>\n\t    \n        <\/ul><br>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses<\/h4>\n        <ul>\n            <li>\u2022 Free Slot Play credits.\n<\/li>\n            <li>\u2022 Discounts on food and beverages.\n<\/li>\n            <li>\u2022 Invitations to private tournaments and live shows.\n\n<\/li>\n          \n        <\/ul><br>\n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Great Blue Heron",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses, Wins, and Seasonal Offers at Great Blue Heron Casino\n<\/h3>\n\n<p> Great Blue Heron Casino offers guests not only thrilling games but also a wide range of bonuses, special promotions, and entertainment events that make every visit unforgettable. Beyond standard play, players can enjoy welcome bonuses, free spins, cashback deals, and free play tokens. The casino hosts regular slot and poker tournaments with substantial prize pools, along with seasonal promotions such as holiday giveaways and themed parties. A newly opened entertainment venue with a capacity of 800 seats brings live concerts and shows to the property, while special offers for newcomers provide an excellent start. These activities ensure that every trip to the casino is exciting and rewarding.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Examples of bonuses and offers<\/h4>\n\n\n        <ul>\n            <li>\u2022 Welcome Bonus: 100% match on first deposit up to $750 + 200 free spins on top slot games.\n<\/li>\n            <li>\u2022 No Deposit Bonus: up to $50 in free play tokens for slots and table games.\n<\/li>\n            <li>\u2022 Weekend Cashback: 10% cashback on net losses up to $100 from Friday to Sunday.\n<\/li>\n            <li>\u2022 Slot and Poker Tournaments: prize pools up to $50,000, monthly competitions for all skill levels.\n<\/li>\n\t    <li>\u2022 Seasonal Promotions: holiday giveaways and bonus rewards (e.g., \u201cFright Night Frenzy\u201d for Halloween).\n<\/li>\n<li>\u2022 Entertainment Events: live concerts, shows, and themed parties in the new 800-seat venue.\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Great Blue Heron Casino\n<\/h3>\n\n<p>Great Blue Heron Casino offers a diverse selection of games designed to satisfy both beginners and seasoned players. The gaming floor features modern slot machines with vibrant graphics and bonus features, including progressive jackpots. Fans of table games can enjoy classics like blackjack, roulette, and baccarat, as well as poker in various formats. The casino boasts a dedicated poker room hosting Texas Hold\u2019em and Omaha tournaments. For those who prefer convenience and speed, electronic table games provide an automated experience. Additionally, the casino offers on-site sports betting, making it one of the few venues in Canada with this option.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular Games<\/h4>\n\n\n        <ul>\n            <li>\u2022 Slot Machines: over 600 machines, including classic and modern video slots with progressive jackpots.\n<\/li>\n            <li>\u2022 Blackjack: classic card game with minimum bets starting at $15.\n<\/li>\n            <li>\u2022 Roulette: European and American versions for thrill-seekers.\n<\/li>\n            <li>\u2022 Baccarat: a stylish and strategic favorite among players.\n<\/li>\n\t    <li>\u2022 Poker: Texas Hold\u2019em and Omaha, tournaments with prizes up to $50,000.\n<\/li>\n<li>\u2022 Electronic Tables: automated versions of popular games for faster play.\n<\/li>\n\t    <li>\u2022 Sports Betting: unique opportunity to place bets right at the casino.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Great Blue Heron Casino\n<\/h3>\n\n<p>Great Blue Heron Casino offers flexible betting limits to suit every player\u2019s budget. Minimum bets make it easy for beginners to join the fun, while maximum bets provide high rollers with the thrill of big stakes. The casino features low-limit slots and a variety of table games with different limits, ensuring an enjoyable experience for all.<\/p>\n\n<br>\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#1728AA; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100+ <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$15 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Texas Hold\u2019em)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$20 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $1,000+ <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Electronic Tables<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100 <\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Events and Entertainment at Great Blue Heron \n<\/h3>\n\n<p> Great Blue Heron Casino is more than just gaming\u2014it\u2019s a full entertainment hub offering regular events for guests. The casino hosts live concerts, themed parties, and shows that create a festive atmosphere. A new 800-seat venue features musical performances, comedy nights, and special holiday programs. Guests can also enjoy bars and lounge areas with evening entertainment, including live music and DJ sets. Nightlife is a key highlight, with cocktails, dancing, and a club-like vibe. Seasonal events such as New Year\u2019s celebrations, Halloween parties, and summer festivals make every visit unique.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Examples of entertainment and events<\/h4>\n\n\n        <ul>\n            <li>\u2022 Live Concerts: performances by popular artists and cover bands.\n<\/li>\n            <li>\u2022 Comedy Shows: stand-up nights and humor evenings.\n<\/li>\n            <li>\u2022 Themed Parties: Halloween, New Year\u2019s, summer festivals.\n<\/li>\n            <li>\u2022 DJ Nights and Dancing: late-night programs in the lounge area.\n<\/li>\n\t    <li>\u2022 Special Shows: holiday programs with prize giveaways.\n<\/li>\n\t    <li>\u2022 Bar Events: cocktail parties, tastings, and live music.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants, and Relaxation at Great Blue Heron \n<\/h3>\n\n<p>Great Blue Heron Casino is not just about gaming\u2014it\u2019s a destination for complete relaxation and premium comfort. Guests can enjoy culinary delights, cozy atmospheres, and a variety of services. The property features stylish bars and restaurants serving local and international cuisine. The Water\u2019s Edge restaurant is known for fresh ingredients and signature dishes, while the Quick Bites area is perfect for light snacks between games. Bars offer signature cocktails, fine wines, and craft beers, making evenings even more enjoyable.<\/p>\n<br>\n<p> For those planning an extended stay, a modern hotel adjacent to the casino provides spacious rooms with elegant design and full amenities. Guests can take advantage of spa services, a fitness center, and a pool to unwind after an exciting day. The casino also hosts entertainment programs, including live music, themed parties, and tasting events, ensuring a vibrant and memorable experience.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Relaxation Spots<\/h4>\n\n\n        <ul>\n            <li>\u2022 Water\u2019s Edge Restaurant \u2014 fine dining with fresh, locally sourced ingredients.\n<\/li>\n            <li>\u2022 Quick Bites \u2014 casual area for light snacks and quick meals.\n<\/li>\n            <li>\u2022 Main Bar \u2014 cocktails, wines, and craft beers in a stylish setting.\n<\/li>\n            <li>\u2022 Casino Hotel \u2014 spacious rooms, spa, fitness center, and pool.\n<\/li>\n\t    <li>\u2022 Lounge Areas \u2014 comfortable spaces for drinks and live music.\n\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, credit cards, and debit cards are accepted.\n\n\n"
+                },
+                {
+                    "title": "Which currency is accepted?",
+                    "answer": "The primary currency is Canadian Dollar (CAD).\n\n\n"
+                },
+                {
+                    "title": "What languages are supported at the casino?",
+                    "answer": "The main language is English, but staff speaks other languages too.\n\n\n"
+                },
+                {
+                    "title": "How can I get cashback?",
+                    "answer": "Cashback is offered on weekends for active play.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/297",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Great Blue Heron"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
